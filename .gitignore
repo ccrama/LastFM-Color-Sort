@@ -1,0 +1,8 @@
+images/
+cache/
+*.png
+*.jpg
+*.csv
+cache.sqlite
+.env
+.DS_Store
