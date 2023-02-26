@@ -3,6 +3,10 @@ cache/
 *.png
 *.jpg
 *.csv
-cache.sqlite
+*.sqlite
 .env
 .DS_Store
+images_cache/
+__pycache__/
+*.py[cod]
+
